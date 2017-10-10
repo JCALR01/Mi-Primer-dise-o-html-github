@@ -12,8 +12,8 @@
 		</head> 
 	<body>
 													<H1>MI PRIMER DISEÑO HTML EN GITHUB</H1><!--título informativo--> 
-				<img src="imgt/GTLOGO.png" width="350" height"350" alt="Logotipo de GITHUB"> 
-				<img src="imgt/gt1.png" alt="GITHUB LOGOTIPO DESKTOP COLOR NEGRO">
+				<img src="imgt/Ver Github.png">
+				<img src="imgt/captura ramificacion.png">
 				<img src="imgt/gt2.png" alt="Logotipo github kraken CIRCULO NINJA">
 				<img src="imgt/gt3.png" width="300" height="300" alt="Logotipo github blanco y negro">
 				<!-- CADA VEZ QUE USE ALT SIGNIFICA QUE PUEDO AGRADAR EL TEXTO A CADA IMAGEN Y ES LLAMDADO ATRIBUTO DE IMAGEN -->
