@@ -33,9 +33,9 @@
 	</tr>
 	<tr>
 		<td>Ver</td>
-	<td>Cambios Ctrl+1, historial Ctrl+2, repositorio Ctrl+T, ramificaciones Ctrl+B, pantalla alterna completa Ctrl+f11, restablecer zoom Ctrl+0, enfocar/acercar zoom ctrl+=
+		<td>Cambios Ctrl+1, historial Ctrl+2, repositorio Ctrl+T, ramificaciones Ctrl+B, pantalla alterna completa Ctrl+f11, restablecer zoom Ctrl+0, enfocar/acercar zoom ctrl+=
 		Desenfocar/disminuir zoom  Ctrl+ -, cambiar opciones de desarrollador Ctrl+shift+I</td>
-	<td> aqui podras mejorar  y extender tu proyecto hasta restablecer al gusto por si algo no crees que fucione  </td>
+		<td> aqui podras mejorar  y extender tu proyecto hasta restablecer al gusto por si algo no crees que fucione  </td>
 	</tr>
 	<tr>
 		<td>Repositorio</td>
