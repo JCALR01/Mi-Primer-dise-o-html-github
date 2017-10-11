@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta charset="utf-8"> <!-- me ayudará a la revision o ortografía --> 
-			<title>MI PRIMER DISEÑO HTML</title><!--TITULO Y DESCRIPCION AL HEAD-->
+			<title>MI PRIMER DISEÑO HTML</title> <!--TITULO Y DESCRIPCION AL HEAD-->
 		<style> table, th, td {
    		border: 1px solid black;
    		border-collapse: collapse;
@@ -10,7 +10,7 @@
 	</head> 
 	
 	<body>
-			<H1>MI PRIMER DISEÑO HTML EN GITHUB</H1><!--título informativo--> 
+			<H1>MI PRIMER DISEÑO HTML EN GITHUB</H1> <!--título informativo--> 
 		<img src="imgt/captura Ver.png" width="400" height="400" alt="captura ver">
 		<img src="imgt/captura ramificacion.png" width="400" height="400" alt="captura ramificacion">
 		<img src="imgt/captura repositorio.png" width="400" height="400" alt="captura repositorio">
