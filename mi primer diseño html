@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<HTML>
 	<head>
 	<meta charset="utf-8"> <!-- me ayudará a la revision o ortografía --> 
 			<title>MI PRIMER DISEÑO HTML</title> <!--TITULO Y DESCRIPCION AL HEAD-->
@@ -55,4 +55,4 @@
 	</ul>
 	
 	</body>
-</html>
+</HTML>
