@@ -11,7 +11,7 @@
 	
 	<body>
 			<H1>MI PRIMER DISEÑO HTML EN GITHUB</H1><!--título informativo--> 
-		<img src="imgt/captura Ver.png" width="400" height="400 "alt="Ver ">
+		<img src="imgt/captura Ver.png" width="400" height="400" alt="capsetura ver">
 		<img src="imgt/captura ramificacion.png" width="400" height="400" alt="captura ramificacion">
 		<img src="imgt/captura repositorio.png" width="400" height="400" alt="captura repositorio">
 		<!-- CADA VEZ QUE USE ALT SIGNIFICA QUE PUEDO AGRADAR EL TEXTO A CADA IMAGEN Y ES LLAMDADO ATRIBUTO DE IMAGEN -->
@@ -47,9 +47,12 @@
 		<td>nueva rama Ctrl+ Shift+N, Renombrar, suprimir, actualizar desde la rama predeterminada, fusionarse/unir en la rama actual, comparar en Github  Ctrl+shift+C, crear solicitud de extracción Ctrl+P </td>
 		<td>8aqui podras unir ramas actuales para mejorar tu proyecto y compararlo en Github</td>
 	</tr>
-				
-		</TABLE>
-		<p><a href="https://github.com/github">Organizacion de Github</a></p>
-		<a href="https://www.youtube.com/watch?v=GqNAD4XoZ6k">Como usar Github Desktop</a>
+				</TABLE>
+	<ul>
+  		<p><li><a href="https://github.com/github">Organizacion de Github</a></li></p>
+  		<p><li><a href="https://www.youtube.com/watch?v=GqNAD4XoZ6k">Como usar Github Desktop</li></p>
+  
+	</ul>
+	
 	</body>
 </html>
