@@ -11,7 +11,7 @@
 	
 	<body>
 			<H1>MI PRIMER DISEÑO HTML EN GITHUB</H1><!--título informativo--> 
-		<img src="imgt/captura Ver.png" width="400" height="400" alt="capsetura ver">
+		<img src="imgt/captura Ver.png" width="400" height="400" alt="captura ver">
 		<img src="imgt/captura ramificacion.png" width="400" height="400" alt="captura ramificacion">
 		<img src="imgt/captura repositorio.png" width="400" height="400" alt="captura repositorio">
 		<!-- CADA VEZ QUE USE ALT SIGNIFICA QUE PUEDO AGRADAR EL TEXTO A CADA IMAGEN Y ES LLAMDADO ATRIBUTO DE IMAGEN -->
